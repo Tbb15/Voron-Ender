@@ -5,3 +5,8 @@ I find myself often cutting up parts or need to make things 80% of the original 
 this will change with the **Voron ender**
 
 My goal is to make a voron trident like printer based on the ender 3 max but core xy that will be precise and fast
+
+
+you can download the cad in this links
+step-https://mega.nz/file/ZmQzxS4K#UfvdI9pxM4uDjiIF3Ch0B35RWLIjiPNG5zLdwi0T5mE
+f3z(fusion 360)-https://mega.nz/file/B2Y00AaS#-NwrqwpncK1CfKTv_oGg9LySu2TNLZP_OPt3sq1q4oM
