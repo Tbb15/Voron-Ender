@@ -3,4 +3,5 @@ my making journey started 2.5 years ago with a Creality Ender 3 Max, it had a lo
 About a year ago I bought a Flashforge Adventurer 5m which is amazing but a little small.
 I find myself often cutting up parts or need to make things 80% of the original size,
 this will change with the **Voron ender**
+
 My goal is to make a voron trident like printer based on the ender 3 max but core xy that will be precise and fast
