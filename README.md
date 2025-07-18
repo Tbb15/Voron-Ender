@@ -7,6 +7,8 @@ this will change with the **Voron ender**
 My goal is to make a voron trident like printer based on the ender 3 max but core xy that will be precise and fast
 
 you can download the cad in this links 
+
+
 step 
 \- https://mega.nz/file/ZmQzxS4K\#UfvdI9pxM4uDjiIF3Ch0B35RWLIjiPNG5zLdwi0T5mE 
 
